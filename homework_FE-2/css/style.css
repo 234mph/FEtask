@@ -1,0 +1,13 @@
+img {
+    width: 20px;
+    height: 15px;
+}
+table {
+    margin: 10px;
+    border-collapse: collapse;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+}
+
